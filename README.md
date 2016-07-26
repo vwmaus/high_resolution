@@ -1,4 +1,4 @@
-# high_resolution
+# High resolution
 
 ``` r
 output_dir = "report"
